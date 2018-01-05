@@ -1,4 +1,4 @@
-var character = "bob"; // change to "adam", "bob" , "eve" , or "rocky" depending on who you want to start with.
+var character = "adam"; // change to "adam", "bob" , "eve" , or "rocky" depending on who you want to start with.
 
 $('#char_creator_client').flash({
     id: "char_creator",
