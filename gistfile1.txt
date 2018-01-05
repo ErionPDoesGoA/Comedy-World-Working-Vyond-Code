@@ -1,4 +1,4 @@
-var character = "adam"; // change to "adam", "bob" , "eve" , or "rocky" depending on who you want to start with.
+var character = "bob"; // change to "adam", "bob" , "eve" , or "rocky" depending on who you want to start with.
 
 $('#char_creator_client').flash({
     id: "char_creator",
@@ -13,4 +13,4 @@ $('#char_creator_client').flash({
 
     hasVersion: "10.3",
 
-    flashvars: {"apiserver":"https:\/\/goanimate4schools.com\/","m_mode":"school","bs":character,"isLogin":"Y","isEmbed":"0","ctc":"go","tlang":"en_US","storePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/store\/3a981f5cb2739137\/<store>","clientThemePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/static\/ad44370a650793d9\/<client_theme>","appCode":"go","page":"","siteId":"go","userId":"00EDZP3Cu0aw","original_asset_id":"48727505","themeId":"family","ut":30}})
+    flashvars: {"apiserver":"https:\/\/goanimate4schools.com\/","m_mode":"school","bs":character,"isLogin":"Y","isEmbed":"0","ctc":"go","tlang":"en_US","storePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/store\/3a981f5cb2739137\/<store>","clientThemePath":"https:\/\/d3v4eglovri8yt.cloudfront.net\/static\/ad44370a650793d9\/<client_theme>","appCode":"go","page":"","siteId":"go","userId":"00EDZP3Cu0aw","original_asset_id":"","themeId":"family","ut":30}})
